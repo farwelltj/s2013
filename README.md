@@ -1,4 +1,7 @@
-s2013
-=====
+# CS 270: Software Engineering
 
-Olivet College Software Engineering - CS 270 (Spring 2013)
+## Spring 2013
+
+A repository for the site created while doing coursework.
+
+Live website at [Heroku - http://mdarden-cs270.herokuapp.com](http://mdarden-cs270.herokuapp.com).
