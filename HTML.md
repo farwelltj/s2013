@@ -1,6 +1,19 @@
 HTML - A brief summary
 ======================
 
+Description
+-----------
+
+Your description of the technology, in a minimum of 100 words.
+
+Notes
+-----
+
+Any additional short blurbs that are relevent.
+
+1. HTML is for content and document structure only, not presentation.
+1. HTML 4.01 is old and busted, HTML5 is the new hotness!
+
 Tags
 ----
 
